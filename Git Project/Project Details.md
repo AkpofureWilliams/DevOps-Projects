@@ -1,3 +1,3 @@
 
 
-![Antivirus Image](images/Anti-virus.JPG)
+![Image](images/Anti-virus.JPG)
